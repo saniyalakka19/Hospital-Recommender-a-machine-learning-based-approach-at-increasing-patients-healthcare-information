@@ -1,4 +1,4 @@
-## Thesis-Project
+## Senior Thesis-Project
 
 # Hospital Recommender: a machine learning based approach at increasing patients’ healthcare information accessibility
 
